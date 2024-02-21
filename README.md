@@ -1,6 +1,4 @@
 # Stargazing Calculator
-skycluster.jp/stargazingで利用できる天体観測用計算をローカル環境で実行するアプリケーション
-
 
 ### [バージョンを見る](https://github.com/mahiromiyake/stargazing/releases)
 
