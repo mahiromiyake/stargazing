@@ -1,6 +1,6 @@
 # Stargazing Calculator
 
-### [バージョンを見る](https://github.com/mahiromiyake/stargazing/releases)
+### [ダウンロード](https://github.com/mahiromiyake/stargazing/releases)
 
 ## 概要
 ローカルバージョンのStargazing Calculatorは、アプリを開くとコンソールが表示され、同時にブラウザが開いてローカルサーバへアクセスされます。
