@@ -11,4 +11,4 @@ GUIは[Webバージョン](https://www.skycluster.jp/stargazing)の見た目と�
 使用後は、以下の方法でローカルサーバを停止できます。  
 
 **Mac:** アプリを終了する、またはコンソールの「Cancel」ボタンを押す  
-**Windows:** 開発中  
+**Windows:** コンソールで「Ctl+C」を押す
