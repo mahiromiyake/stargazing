@@ -1,6 +1,6 @@
 # Stargazing Calculator
 
-JAPANESE LANGUAGE SUPPORT ONLY
+LANGUAGE: JAPANESE
 
 ### [ダウンロードする](https://github.com/mahiromiyake/stargazing/releases)
 
