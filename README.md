@@ -1,5 +1,7 @@
 # Stargazing Calculator
 
+JAPANESE SUPPORT ONLY
+
 ### [ダウンロードする](https://github.com/mahiromiyake/stargazing/releases)
 
 ## 概要
